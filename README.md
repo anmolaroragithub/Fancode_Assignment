@@ -1,12 +1,16 @@
 # Fancode_Assignment
 1. Clone the Repository:
-   git clone https://github.com/anmolaroragithub/Fancode_Assignment.git
 
-2. Go to the repository:
-   cd Fancode_Assignment/
+git clone https://github.com/anmolaroragithub/Fancode_Assignment.git
 
-4. Install the dependencies in requirements.txt file:
-   pip install -r requirements.txt
+3. Go to the repository:
 
-5. Run the main.py file:
-   python main.py
+cd Fancode_Assignment/
+
+5. Install the dependencies in requirements.txt file:
+
+pip install -r requirements.txt
+
+7. Run the main.py file:
+
+python main.py
