@@ -48,3 +48,5 @@ def test_full_integration(user_data, todos_data, mocker):
 
     from main import main
     main()  
+
+print("Tests Executed Successfully")
