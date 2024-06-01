@@ -5,7 +5,7 @@
 2. Go to the repository:
    cd Fancode_Assignment/
 
-4. Install the dependencies in requirements.txt file
+4. Install the dependencies in requirements.txt file:
    pip install -r requirements.txt
 
 5. Run the main.py file:
